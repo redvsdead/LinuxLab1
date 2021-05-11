@@ -1,0 +1,4 @@
+USER=xosia
+PWD=/home/xosia
+HOME=/home/xosia
+LOGNAME=xosia
